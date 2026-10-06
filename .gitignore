@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+.cache/
+.DS_Store
+Thumbs.db
+DoiZ-backup/
