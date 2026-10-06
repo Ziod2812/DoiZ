@@ -190,7 +190,7 @@ Every bind below is defined in `dotfiles/hypr/config/keybinds.lua` and listed in
 | `Super + Alt + S` | Send window to the special workspace |
 | `Ctrl + Super + Shift + ↓` | Bring window back from the special workspace |
 
-### ♾️ Infinite Desktop v2 by https://github.com/sarodscommits/hyprland-infinitie-desktop-v2
+### ♾️ Infinite Desktop v2 
 | Key | Action |
 |---|---|
 | `Super + Shift + D` | Infinite Desktop ON / OFF |
