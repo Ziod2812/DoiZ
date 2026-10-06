@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 150" width="1280" height="150">
+<defs>
+<linearGradient id="f1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0d3340"/><stop offset="0.5" stop-color="#1b6f88"/><stop offset="1" stop-color="#5dffd0"/></linearGradient>
+<filter id="g" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<path d="M0 70 C240 20 460 120 700 70 S1080 30 1280 80 V150 H0Z" fill="url(#f1)" fill-opacity="0.35"><animate attributeName="d" dur="10s" repeatCount="indefinite" values="M0 70 C240 20 460 120 700 70 S1080 30 1280 80 V150 H0Z;M0 85 C240 120 460 30 700 80 S1080 120 1280 65 V150 H0Z;M0 70 C240 20 460 120 700 70 S1080 30 1280 80 V150 H0Z"/></path>
+<path d="M0 100 C300 70 520 130 760 100 S1100 80 1280 105 V150 H0Z" fill="url(#f1)" fill-opacity="0.6"/>
+<circle cx="180" cy="58" r="2.4" fill="#5dffd0" filter="url(#g)"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="520" cy="44" r="2" fill="#5dffd0" filter="url(#g)"><animate attributeName="opacity" values="1;0.2;1" dur="4.2s" repeatCount="indefinite"/></circle>
+<circle cx="900" cy="52" r="2.6" fill="#5dffd0" filter="url(#g)"><animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="1120" cy="40" r="2" fill="#5dffd0" filter="url(#g)"><animate attributeName="opacity" values="1;0.2;1" dur="3.8s" repeatCount="indefinite"/></circle>
+</svg>
